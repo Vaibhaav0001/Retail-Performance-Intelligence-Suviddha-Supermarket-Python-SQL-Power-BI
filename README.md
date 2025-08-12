@@ -1,4 +1,3 @@
-# Retail-Performance-Intelligence-Suviddha-Supermarket-Python-SQL-Power-BI
 # 🛒 Retail Performance Intelligence – Suvidha Supermarket
 **Technologies:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
 **Status:** ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)  
